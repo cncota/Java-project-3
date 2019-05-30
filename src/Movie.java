@@ -1,4 +1,4 @@
-/*Claudia Cota ID:60341850
+/*
 
 Movies class represents the a movie object. It contains all the methods that update the renting status and the 
 setter and getter methods that change the attributes.*/
