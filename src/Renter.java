@@ -1,4 +1,4 @@
-/*Claudia Cota ID:60341850
+/*
 
 Renter class represents a renter object. Contains setters and getters for each attribute.*/
 
