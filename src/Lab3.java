@@ -1,4 +1,4 @@
-/*Claudia Cota ID:60341850
+/*
 
 Lab3 contains the main method. It constructs a MovieManager and run() on it.*/
 
